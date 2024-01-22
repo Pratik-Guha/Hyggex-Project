@@ -13,7 +13,7 @@ const CreateFlashcard = () => {
             </div>
         </div>
         <div className=''>
-            <div className='relative flex justify-center items-center mt-4 right-8 '>
+            <div className='relative flex justify-center items-center mt-16 right-8 '>
                 <div className='w-9 h-9 iconcolor rounded-full absolute  top-0 left-0 '></div>
                 <FaPlus className='w-[28px] h-[28px]  text-white mt-1 ml-10 z-10 relative right-9'/>
                 <div className='flex justify-center items-center relative right-5'>
