@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+.loginbtn{  
+
+    background: linear-gradient(180deg, rgb(11, 50, 148) 55%, rgb(34, 151, 141) 100%);
+}
+.flashcard{
+    background: linear-gradient(23deg, rgba(31, 128, 235, 1) 0%, rgba(34, 132, 241, 1) 25%, rgba(6, 28, 147, 1) 77%, rgba(5, 26, 145, 1) 100%);
+}
+.iconcolor{
+    background: linear-gradient(180deg, rgba(6, 40, 110, 1) 50%, rgba(22, 78, 192, 1) 100%);
+}
